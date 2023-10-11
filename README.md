@@ -16,3 +16,9 @@ Goldman sachs leaked database (Forage). In this task they will give you some has
 3. What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
 4. What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
 5. What would you change in the password policy to make breaking the passwords harder? 
+
+# Task_Report
+Here is the password_dump.txt https://github.com/nikhilesh-927/Goldman_sachs_leaked_database_task/blob/main/password_dump.txt .
+In this you will get usernames : hashcodes(passwords are encrypted in haschcodes)
+
+I used this github tool : https://github.com/ikkebr/PyBozoCrack and was able to crack 18 out of 19 passwords.
