@@ -90,4 +90,4 @@ bandalls       : bdda5f03128bcbdfa78d8934529048cf : Banda11s       : md5
              iii) There should be a tool which checks the password and tells the user whether it is strong or not.
              iv)  Two-step verification may also be useful in protection the account.
 
-<\code>
+</code>
