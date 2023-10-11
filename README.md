@@ -52,6 +52,7 @@ bandalls       : bdda5f03128bcbdfa78d8934529048cf : Banda11s       : md5
 # Observations
 
 <code>
+   
    [1]. What type of hashing algorithm was used to protect passwords?
 
    Answer : As of my observation the hashing algorithm used was MD5.
