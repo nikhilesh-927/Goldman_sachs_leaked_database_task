@@ -1,4 +1,4 @@
-[cracked.txt](https://github.com/nikhilesh-927/Goldman_sachs_leaked_database_task/files/12865778/cracked.txt)[cracked.txt](https://github.com/nikhilesh-927/Goldman_sachs_leaked_database_task/files/12865671/cracked.txt)# Goldman_sachs_leaked_database_task
+# Goldman_sachs_leaked_database_task
 Goldman sachs leaked database (Forage). In this task they will give you some hashcodes corresponding to the passwords of users and you have to crack those passwords.
 
 # Task_instructions
