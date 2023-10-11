@@ -23,4 +23,4 @@ In this you will get usernames : hashcodes(passwords are encrypted in haschcodes
 
 I used this github tool : https://github.com/ikkebr/PyBozoCrack and was able to crack 18 out of 19 passwords.
 List is below :)
-[cracked.docx](https://github.com/nikhilesh-927/Goldman_sachs_leaked_database_task/files/12865732/cracked.docx)
+(https://github.com/nikhilesh-927/Goldman_sachs_leaked_database_task/files/12865732/cracked.docx)
