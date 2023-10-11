@@ -25,6 +25,7 @@ I used this github tool : https://github.com/ikkebr/PyBozoCrack and was able to 
 
 List is below :)
 <code>
+
 Usernames        Password Hashes                    Passwords        Algorithm Used
 
 experthead     : e10adc3949ba59abbe56e057f20f883e : 123456         : md5
@@ -54,19 +55,16 @@ bandalls       : bdda5f03128bcbdfa78d8934529048cf : Banda11s       : md5
 <code>
    
    [1]. What type of hashing algorithm was used to protect passwords?
-
    Answer : As of my observation the hashing algorithm used was MD5.
 
 
 
    [2]. What level of protection does the mechanism offer for passwords?
-
    Answer : The level of protection offered by MD5 is severely compromised. Hackers can easily find collisions within seconds.
 
 
 
    [3]. What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
-
    Answer : There are few important controls should be implemented to make cracking much harder :
              i)   Users are using password of any length so will suggest to introduce concept of minimum password length.
              ii)  Special characters , Uppercase letters , Lowercase letters as well as combination of numbers should be used in passwords.
@@ -76,7 +74,6 @@ bandalls       : bdda5f03128bcbdfa78d8934529048cf : Banda11s       : md5
 
 
    [4]. What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
-
    Answer : Two points are mentioned below about organization's password policy : 
             i)   No such regulations for minimum-length passwords.
             ii)  Also there is no rule for using special characters or numbers or upper and lowercase letters.
@@ -84,7 +81,6 @@ bandalls       : bdda5f03128bcbdfa78d8934529048cf : Banda11s       : md5
 
 
    [5]. What would you change in the password policy to make breaking the passwords harder?
-
    Answer :  Below are some necessary changes I will do to make breaking the passwords harder :  
              i)   Length of password must be of minimum 8 characters.
              ii)  At least 2 special characters like @, #, $  must be used in the passwords.
